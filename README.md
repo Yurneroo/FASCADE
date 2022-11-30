@@ -1,1 +1,1 @@
-# Face-Detector
+# OpenCV Face Detector with Haar Cascade
